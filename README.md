@@ -1,4 +1,4 @@
-# Spottable
+# Spottable (Data Engineering Assignment)
 Approaches taken to answer the questions are as follows:
 I have used Python for analysing the data and displaying the desired result. Starting with uploading the Json file in python and displaying the data in an organised manner to carefully observe and look into the data.Library used : Json, Datetime and Timezone.
 
