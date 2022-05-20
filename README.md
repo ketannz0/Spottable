@@ -1,6 +1,6 @@
 # Spottable
 Approaches taken to answer the questions are as follows:
-I have used Python for analysing the data and displaying the desired result. Starting with uploading the Json file in python and displaying the data in an organised manner to carefully observe and look into the data.
+I have used Python for analysing the data and displaying the desired result. Starting with uploading the Json file in python and displaying the data in an organised manner to carefully observe and look into the data.Library used : Json, Datetime and Timezone.
 
 
 •	For finding the Total Experience of each candidate, I have calculated the sum of number of days between the start date and end date of joining in each Company and at the end, I converted the sum (which is in days) into years and thus I got the Total experience of each candidate
